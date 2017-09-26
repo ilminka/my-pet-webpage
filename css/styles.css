@@ -1,0 +1,10 @@
+.important {
+  text-transform: capitalize;
+  text-decoration: underline;
+
+}
+
+.unimportant {
+  color: purple;
+  text-align: center;
+}
