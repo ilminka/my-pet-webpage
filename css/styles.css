@@ -26,4 +26,14 @@ img {
 .column {
   width: 300px;
   float: left;
+  border: 2px solid green;
+  margin: 12px
+}
+
+.digital {
+  background-color: red;
+}
+
+.analog {
+  background-color: yellow;
 }
