@@ -1,10 +1,14 @@
 .important {
   text-transform: capitalize;
   text-decoration: underline;
-
+  text-align: center;
 }
 
 .unimportant {
   color: purple;
   text-align: center;
+}
+
+.highlight {
+  color: red;
 }
